@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋 I'm Ninelle Divich</h1>
+<h1 align="center">Hello World! I'm Ninelle Divich</h1>
 
 <h5 align="center">Experienced web developer with 5+ years of experience in client-side application development. Deep knowledge of JavaScript and several frameworks, including React, Angular, and Vue. Proven ability to develop complex web applications with high performance and scalability. Experience working in a variety of industries, including e-commerce, fintech, and SaaS. Successfully delivered a number of projects that received positive feedback from clients.
 <br>
